@@ -10,16 +10,16 @@ First algorithm shifts each letter by the specified number according to its orde
 The second one  based on Unicode table. <br />
 
 -in 
--out 
+-out <br />
 specify the full name of a file to read data and to write the result.
 
 -mode [enc] [dec] <br />
 Determine the program’s mode (enc - encryption, dec - decryption). 
 
--key [int]
+-key [int] <br />
 Argument is an integer key to modify the message.
 
--data [String]
+-data [String] <br />
 text or ciphertext within quotes to encrypt or decrypt. <br />
 
 If there is no -mode, the program work in enc mode. <br />
