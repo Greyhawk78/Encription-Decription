@@ -5,7 +5,7 @@ Syntax
 Command line arguments
 
 -alg [shift] [unicode]
-he first one would be shifting algorithm 
+Choosing shifting algorithm 
 First algorithm shifts each letter by the specified number according to its order in the alphabet in circle. 
 The second one  based on Unicode table.
 
