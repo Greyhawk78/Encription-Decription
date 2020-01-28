@@ -4,10 +4,10 @@ Simple encript-decript programm. Works with command line arguments.
 Syntax 
 Command line arguments
 
--alg [shift] [unicode] 
-Choosing shifting algorithm 
-First algorithm shifts each letter by the specified number according to its order in the alphabet in circle. 
-The second one  based on Unicode table.
+-alg [shift] [unicode] <br />
+Choosing shifting algorithm <br />
+First algorithm shifts each letter by the specified number according to its order in the alphabet in circle. <br />
+The second one  based on Unicode table. <br />
 
 -in 
 -out 
